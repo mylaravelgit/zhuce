@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+<<<<<<< HEAD
+    <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/foshans/zc.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/2vm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/2vmm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/adv_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/adv_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/adv_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/adv_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/adv_icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/bank.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/banner.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/button_center.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/button_left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/button_right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/company.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/download_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/dz_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/free01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/free02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/free03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/free04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/free05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/free06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/fw_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/jiantou_icon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/jquery-1.12.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/jt_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/mobile/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/mobile/need/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/theme/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/theme/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/theme/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/theme/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/theme/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/layer/theme/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/lc_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/lc_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/lc_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/lc_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/lc_05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/lc_06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/money.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/name_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/nssb_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/nssb_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/nssb_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/nssb_04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/nssb_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/oms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/oms.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/popup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/problem_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/small_question_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/step01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/step02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/step03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/step_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/superslide.2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/top_call.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/top_gg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/yhkh_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/zc_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/zcgs_content_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/zj_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/zj_02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/zj_03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/style/zj_bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/foshans.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/foshan.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="372" column="77" selection-start-line="372" selection-start-column="24" selection-end-line="372" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="155" column="73" selection-start-line="155" selection-start-column="73" selection-end-line="155" selection-end-column="73" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#a#6;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4873#4879#0#HTML" expanded="true" />
+                <element signature="e#4879#4885#0#HTML" expanded="true" />
+                <element signature="e#4885#4891#0#HTML" expanded="true" />
+                <element signature="e#4941#4947#0#HTML" expanded="true" />
+                <element signature="e#4947#4953#0#HTML" expanded="true" />
+                <element signature="e#4953#4959#0#HTML" expanded="true" />
+                <element signature="e#5009#5015#0#HTML" expanded="true" />
+                <element signature="e#5015#5021#0#HTML" expanded="true" />
+                <element signature="e#5021#5027#0#HTML" expanded="true" />
+                <element signature="e#5076#5082#0#HTML" expanded="true" />
+                <element signature="e#5082#5088#0#HTML" expanded="true" />
+                <element signature="e#5088#5094#0#HTML" expanded="true" />
+                <element signature="e#5094#5100#0#HTML" expanded="true" />
+                <element signature="e#5100#5106#0#HTML" expanded="true" />
+                <element signature="e#5106#5112#0#HTML" expanded="true" />
+                <element signature="e#5112#5118#0#HTML" expanded="true" />
+                <element signature="e#5167#5173#0#HTML" expanded="true" />
+                <element signature="e#5173#5179#0#HTML" expanded="true" />
+                <element signature="e#5179#5185#0#HTML" expanded="true" />
+                <element signature="e#5185#5191#0#HTML" expanded="true" />
+                <element signature="e#5191#5197#0#HTML" expanded="true" />
+                <element signature="e#5197#5203#0#HTML" expanded="true" />
+                <element signature="e#5203#5209#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#p#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#4377#4383#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#p#5;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#7;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#9;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#p#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#p#0;n#div#5;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#1;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#20036#20042#0#HTML" expanded="true" />
+              </folding>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/public/cwzj/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2793">
+              <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+=======
+        <entry file="file://$PROJECT_DIR$/public/style/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="31" selection-start-line="31" selection-end-line="37" selection-end-column="1" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="42" selection-end-line="42" />
+=======
+        <entry file="file://$PROJECT_DIR$/public/foshans/zc.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="3869" column="10" selection-start-line="3869" selection-start-column="10" selection-end-line="3869" selection-end-column="10" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
+        <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="28" column="58" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="58" />
+=======
+        <entry file="file://$PROJECT_DIR$/../Desktop/dahaoshiguang.com.cn/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="160" column="28" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="28" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#li#0;n#a#6;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+<<<<<<< HEAD
+      <find>ter-tit</find>
+      <find>w1180</find>
+      <find>letter-spacing</find>
+      <find>ter-</find>
+      <find>商注册公司方案</find>
+      <find>www.53kf.com</find>
+      <find>.r_2</find>
+      <find>../img</find>
+      <find>./财务之家_files</find>
+      <find>collapse</find>
+      <find>400-000-1718</find>
+      <find>wapinvitebg.jpg</find>
+      <find>ddt.zoosnet.ne</find>
+      <find>nav</find>
+      <find>wrapper</find>
+      <find>openZoosUrl</find>
+      <find>hostname</find>
+      <find>.aspx</find>
+      <find>Cdcheck</find>
+      <find>.as</find>
+      <find>.asp</find>
+      <find>logo.png</find>
+      <find>春天财务</find>
+      <find>公司介绍</find>
+      <find>www.kuaijifuwu.cc</find>
+      <find>春天会计服务公司</find>
+      <find>春</find>
+      <find>d.j</find>
+      <find>.go_btn</find>
+      <find>go_btn</find>
+=======
+      <find>春天财务</find>
+      <find>kuaiji</find>
+      <find>在线</find>
+      <find>png</find>
+      <find>jpg</find>
+      <find>iconBack10</find>
+      <find>baidu.com</find>
+      <find>b.js</find>
+      <find>欢迎来到春天财务</find>
+      <find>春天</find>
+      <find>.js</find>
+      <find>./佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files</find>
+      <find>春</find>
+      <find>佛山注册公</find>
+      <find>&lt;a target=&quot;_blank&quot; rel=&quot;nofollow&quot; href=&quot;http://p.qiao.baidu.com/cps/chat?siteId=7702124&amp;userId=10993187&quot;&gt;点我立即咨询&lt;/a&gt;</find>
+      <find>咨询</find>
+      <find>400-808-8201</find>
+      <find>kuai</find>
+      <find>.../foshan</find>
+      <find>background.</find>
+      <find>zcgs_bg</find>
+      <find>zc.css</find>
+      <find>three_image</find>
+      <find>iphone</find>
+      <find>phone</find>
+      <find>call_</find>
+      <find>400</find>
+      <find>悉佛山工商注册流程，可能需</find>
+      <find>call_phone</find>
+      <find>phone_small</find>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>&quot;./image/</replace>
+      <replace>./js</replace>
+      <replace>image</replace>
+      <replace>./image</replace>
+      <replace>好时光</replace>
+      <replace>./佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files</replace>
+      <replace>&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;open_chat()&quot;&gt;点我立即咨询&lt;/a&gt;</replace>
+<<<<<<< HEAD
+      <replace>&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;open_chat()&quot;</replace>
+      <replace>./foshan</replace>
+      <replace>&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;open_chat()&quot;style=&quot;&quot;&gt;点我立即咨询&lt;/a&gt;</replace>
+      <replace>../foshan</replace>
+      <replace>./foshans</replace>
+      <replace>.r_8</replace>
+      <replace>../cwzj</replace>
+      <replace>./cwzj</replace>
+      <replace>400-850-0074</replace>
+      <replace>wwww.dahaosg.com</replace>
+      <replace>大好时光</replace>
+      <replace>我们</replace>
+=======
+      <replace>大好时光</replace>
+      <replace>&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;open_chat()&quot;</replace>
+      <replace>./foshan</replace>
+      <replace>&lt;a href=&quot;javascript:void(0);&quot; onclick=&quot;open_chat()&quot;style=&quot;&quot;&gt;点我立即咨询&lt;/a&gt;</replace>
+      <replace>400-850-0074</replace>
+      <replace>../foshan</replace>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/resources/views/index2.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/layout.css" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agency.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/cancel.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/power.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/change.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/demo1.css" />
+        <option value="$PROJECT_DIR$/resources/views/company.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/brand.blade.php" />
+        <option value="$PROJECT_DIR$/../Desktop/index.html" />
+        <option value="$PROJECT_DIR$/resources/views/app.blade.php" />
+        <option value="$PROJECT_DIR$/public/js/2" />
+        <option value="$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司.html" />
+        <option value="$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/zc.css" />
+<<<<<<< HEAD
+        <option value="$PROJECT_DIR$/public/foshan/b.js" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/../Desktop/dahaoshiguang.com.cn/index.html" />
+        <option value="$PROJECT_DIR$/resources/views/foshan.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/common.css" />
+        <option value="$PROJECT_DIR$/../Desktop/网页/顶呱呱工商注册.html" />
+        <option value="$PROJECT_DIR$/public/foshan/zc.css" />
+        <option value="$PROJECT_DIR$/public/style/index.css" />
+        <option value="$PROJECT_DIR$/public/foshans/zc.css" />
+        <option value="$PROJECT_DIR$/../Desktop/网页/财务之家-开公司_公司注册_注册公司.html" />
+        <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/introduction.blade.php" />
+        <option value="$PROJECT_DIR$/public/cwzj/index.css" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+=======
+        <option value="$PROJECT_DIR$/public/foshan/zc.css" />
+        <option value="$PROJECT_DIR$/public/foshan/b.js" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/foshan.blade.php" />
+        <option value="$PROJECT_DIR$/../Desktop/dahaoshiguang.com.cn/index.html" />
+        <option value="$PROJECT_DIR$/public/foshans/zc.css" />
+        <option value="$PROJECT_DIR$/public/style/index.css" />
+        <option value="$PROJECT_DIR$/resources/views/foshans.blade.php" />
+      </list>
+    </option>
+  </component>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
+      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
+      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+<<<<<<< HEAD
+    <option name="x" value="349" />
+    <option name="width" value="1020" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+=======
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1020" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+<<<<<<< HEAD
+      <pane id="Scope" />
+=======
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+            </path>
+            <path>
+              <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="cwzj" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+            </path>
+            <path>
+              <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="foshan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="style" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+            </path>
+            <path>
+              <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+=======
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+            </path>
+            <path>
+              <item name="dahaosg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dahaosg" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/cwzj" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\dahaosg\public\image" />
+      <recent name="C:\Users\Administrator\dahaosg\public\css" />
+      <recent name="C:\Users\Administrator\dahaosg\public\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+<<<<<<< HEAD
+      <recent name="E:\Program\www\dahaosg\public\cwzj" />
+      <recent name="C:\Users\Administrator\dahaosg\public\cwzj" />
+      <recent name="C:\Users\Administrator\dahaosg\public\style" />
+      <recent name="C:\Users\Administrator\dahaosg\public\foshan" />
+      <recent name="C:\Users\Administrator\dahaosg\public\foshans" />
+=======
+      <recent name="C:\Users\Administrator\dahaosg\public" />
+      <recent name="C:\Users\Administrator\dahaosg\public\foshans" />
+      <recent name="C:\Users\Administrator\dahaosg\public\foshan" />
+      <recent name="C:\Users\Administrator\dahaosg\public\image" />
+      <recent name="C:\Users\Administrator\dahaosg\public\js" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8515433-bd60-4720-beaf-f81e252861db" name="Default Changelist" comment="" />
+      <created>1555335363116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555335363116</updated>
+      <workItem from="1555335371038" duration="1650000" />
+      <workItem from="1555337195804" duration="4697000" />
+      <workItem from="1555376801126" duration="19181000" />
+      <workItem from="1555411966450" duration="639000" />
+      <workItem from="1555474748749" duration="2216000" />
+      <workItem from="1555493587274" duration="4392000" />
+      <workItem from="1555552893002" duration="1139000" />
+      <workItem from="1555559378241" duration="118000" />
+      <workItem from="1555588911110" duration="1652000" />
+      <workItem from="1555594557385" duration="5902000" />
+<<<<<<< HEAD
+      <workItem from="1555638570208" duration="6784000" />
+      <workItem from="1555654304623" duration="14359000" />
+      <workItem from="1555676387235" duration="7362000" />
+      <workItem from="1555722248696" duration="9967000" />
+      <workItem from="1555742179577" duration="1574000" />
+      <workItem from="1555749604140" duration="3422000" />
+      <workItem from="1555756344559" duration="2084000" />
+      <workItem from="1555895134966" duration="11287000" />
+      <workItem from="1555914198004" duration="9520000" />
+      <workItem from="1555926438528" duration="3797000" />
+      <workItem from="1555934792793" duration="5501000" />
+      <workItem from="1555940471937" duration="822000" />
+      <workItem from="1555987253503" duration="27000" />
+=======
+      <workItem from="1555638570208" duration="5150000" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="118092000" />
+=======
+    <option name="totallyTimeSpent" value="46736000" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+<<<<<<< HEAD
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2431611" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15197569" />
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+<<<<<<< HEAD
+=======
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15197569" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/routes/web.php</url>
+<<<<<<< HEAD
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/foshan.blade.php</url>
+          <line>60</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+=======
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/public/foshan/1-1Q1242230510-L.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/1-1Q2140036040-L.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/1-1Z10F034060-L.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/1-1Z10F034310-L.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/1-1Z10F034520-L.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/a_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/b.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/back1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/back2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/arrow_1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/arrow.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/circle.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/call_phone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/circle_hover.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/ctgongsizhuce.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/iphone.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/logo2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/no.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/phone_small.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/point.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/point_line.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/poll">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/q_icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/spot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/txet.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/user.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/woman_blue.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/woman_gray.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/avatar2.png" />
+    <entry file="file://$PROJECT_DIR$/public/cwzj/close.png" />
+    <entry file="file://$PROJECT_DIR$/public/cwzj/wapinvitebg.jpg" />
+    <entry file="file://$PROJECT_DIR$/public/style/logo2.png" />
+    <entry file="file://$PROJECT_DIR$/public/foshan/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4023">
+          <caret line="589" column="1" selection-start-line="589" selection-start-column="1" selection-end-line="589" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/logo3.png" />
+    <entry file="file://$PROJECT_DIR$/public/style/logo.png" />
+    <entry file="file://$PROJECT_DIR$/resources/views/introduction.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+          <folding>
+            <element signature="e#834#838#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/three_image.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/row1_i3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/row1_i2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/row1_i1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/row2_i1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/row4_i1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/banner.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/zc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="1763" column="26" lean-forward="true" selection-start-line="1763" selection-start-column="26" selection-end-line="1763" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/footer_tel.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/cwzj/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2793">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="17" selection-end-line="147" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+=======
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/进出口权_广东老街企业管理有限公司.html" />
+    <entry file="file://$PROJECT_DIR$/resources/views/power.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="68" lean-forward="true" selection-start-line="3" selection-start-column="68" selection-end-line="3" selection-end-column="68" />
+          <folding>
+            <element signature="e#8768#8774#0#HTML" expanded="true" />
+            <element signature="e#8776#8782#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agency.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="79" selection-start-line="4" selection-start-column="79" selection-end-line="4" selection-end-column="79" />
+          <folding>
+            <element signature="e#5503#5509#0#HTML" expanded="true" />
+            <element signature="e#5509#5515#0#HTML" expanded="true" />
+            <element signature="e#5515#5521#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/company.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/image/201803130950_02.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/demo1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-908">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/公司注册_广东老街企业管理有限公司.html" />
+    <entry file="file://$PROJECT_DIR$/../Desktop/index.html" />
+    <entry file="file://$PROJECT_DIR$/public/js/jquery-1.10.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-546" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/hm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-717" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/jquery-1.4.2.flp.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/kf_ivt_new.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="380" column="187" selection-start-line="380" selection-start-column="181" selection-end-line="380" selection-end-column="187" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/ScrollText.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2383" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/bannerList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1178">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-274" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60268">
+          <caret line="3172" column="39" selection-start-line="3172" selection-start-column="39" selection-end-line="3172" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/b.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/hm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/pc_nb.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/v.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司_files/zc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="3927" column="8" lean-forward="true" selection-start-line="3927" selection-end-line="3928" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/brand.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="922">
+          <caret line="161" column="25" selection-start-line="161" selection-start-column="20" selection-end-line="161" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/common.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/cancel.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="384" column="26" selection-start-line="384" selection-start-column="26" selection-end-line="384" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/pc_nb.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/v.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/hm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="226" selection-start-line="1" selection-start-column="224" selection-end-line="1" selection-end-column="226" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/b.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/poll">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/main.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/zc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11704">
+          <caret line="616" column="28" selection-start-line="616" selection-start-column="28" selection-end-line="616" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/queue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-285" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/change.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="66" selection-start-line="3" selection-start-column="66" selection-end-line="3" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2546">
+          <caret line="134" column="62" selection-start-line="134" selection-start-column="62" selection-end-line="134" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="228" column="57" selection-start-line="228" selection-start-column="57" selection-end-line="228" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="56" column="34" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshan/background.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/dahaoshiguang.com.cn/style/layer/layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/网页/佛山公司注册,佛山代理注册公司,佛山工商注册公司_春天会计服务公司.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="88" column="89" selection-end-line="424" selection-end-column="3666" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/dahaoshiguang.com.cn/style/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="19" selection-start-line="19" selection-end-line="113" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Desktop/dahaoshiguang.com.cn/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="160" column="28" selection-start-line="160" selection-start-column="28" selection-end-line="160" selection-end-column="28" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#a#6;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="218" selection-start-line="218" selection-end-line="218" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/foshan.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="372" column="77" selection-start-line="372" selection-start-column="24" selection-end-line="372" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/style/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="31" selection-start-line="31" selection-end-line="37" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/standardSchemas/xhtml1-transitional.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="1071" column="15" selection-start-line="1071" selection-start-column="15" selection-end-line="1071" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/foshans/zc.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="3869" column="10" selection-start-line="3869" selection-start-column="10" selection-end-line="3869" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/foshans.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="155" column="73" selection-start-line="155" selection-start-column="73" selection-end-line="155" selection-end-column="73" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#a#6;n#ul#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#a#0;n#div#1;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4873#4879#0#HTML" expanded="true" />
+            <element signature="e#4879#4885#0#HTML" expanded="true" />
+            <element signature="e#4885#4891#0#HTML" expanded="true" />
+            <element signature="e#4941#4947#0#HTML" expanded="true" />
+            <element signature="e#4947#4953#0#HTML" expanded="true" />
+            <element signature="e#4953#4959#0#HTML" expanded="true" />
+            <element signature="e#5009#5015#0#HTML" expanded="true" />
+            <element signature="e#5015#5021#0#HTML" expanded="true" />
+            <element signature="e#5021#5027#0#HTML" expanded="true" />
+            <element signature="e#5076#5082#0#HTML" expanded="true" />
+            <element signature="e#5082#5088#0#HTML" expanded="true" />
+            <element signature="e#5088#5094#0#HTML" expanded="true" />
+            <element signature="e#5094#5100#0#HTML" expanded="true" />
+            <element signature="e#5100#5106#0#HTML" expanded="true" />
+            <element signature="e#5106#5112#0#HTML" expanded="true" />
+            <element signature="e#5112#5118#0#HTML" expanded="true" />
+            <element signature="e#5167#5173#0#HTML" expanded="true" />
+            <element signature="e#5173#5179#0#HTML" expanded="true" />
+            <element signature="e#5179#5185#0#HTML" expanded="true" />
+            <element signature="e#5185#5191#0#HTML" expanded="true" />
+            <element signature="e#5191#5197#0#HTML" expanded="true" />
+            <element signature="e#5197#5203#0#HTML" expanded="true" />
+            <element signature="e#5203#5209#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#3;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#4;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#4377#4383#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#p#5;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#6;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#7;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#8;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#9;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#1;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#2;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#1;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#2;n#tr#3;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#1;n#div#0;n#div#2;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#3;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#5;n#ul#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#5;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#1;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#6;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#7;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#20036#20042#0#HTML" expanded="true" />
+          </folding>
+>>>>>>> 466a97f873bd2a12349496b3d8a1c19af5a08264
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
